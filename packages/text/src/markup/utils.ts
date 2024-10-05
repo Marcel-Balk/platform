@@ -16,7 +16,7 @@
 import { Markup } from '@hcengineering/core'
 import { Editor, Extensions, getSchema } from '@tiptap/core'
 import { generateHTML, generateJSON } from '@tiptap/html'
-import { Node as ProseMirrorNode, Schema } from '@tiptap/pm/model'
+import { ParseOptions, Node as ProseMirrorNode, Schema } from '@tiptap/pm/model'
 
 import { deepEqual } from 'fast-equals'
 import { defaultExtensions } from '../extensions'
@@ -198,9 +198,9 @@ export function markupToHTML (markup: Markup, extensions?: Extensions): string {
 }
 
 /** @public */
-export function htmlToJSON (html: string, extensions?: Extensions): MarkupNode {
+export function htmlToJSON (html: string, extensions?: Extensions, options?: ParseOptions): MarkupNode {
   extensions = extensions ?? defaultExtensions
-  return generateJSON(html, extensions) as MarkupNode
+  return generateJSON(html, extensions, options) as MarkupNode
 }
 
 /** @public */
