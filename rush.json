@@ -2115,6 +2115,11 @@
       "packageName": "@hcengineering/openai",
       "projectFolder": "plugins/openai",
       "shouldPublish": false
+    },
+    {
+      "packageName": "@hcengineering/cloud-transactor",
+      "projectFolder": "cloud/transactor",
+      "shouldPublish": false
     }
   ]
 }
