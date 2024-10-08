@@ -36,7 +36,7 @@ export const CommentNode = Node.create({
   parseHTML () {
     return [
       {
-        tag: `comment`
+        tag: 'comment'
       }
     ]
   },

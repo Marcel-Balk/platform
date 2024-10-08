@@ -319,7 +319,7 @@ function tokenHandlers (
 
   handlers.html_inline = (state: MarkdownParseState, tok: Token) => {
     try {
-      const model = htmlToJSON(tok.content, extensions, {preserveWhitespace: true})
+      const model = htmlToJSON(tok.content, extensions, { preserveWhitespace: true })
       if (model.content !== undefined) {
         // unwrap content from wrapping paragraph
         const shouldUnwrap =
@@ -339,7 +339,7 @@ function tokenHandlers (
   }
   handlers.html_block = (state: MarkdownParseState, tok: Token) => {
     try {
-      const model = htmlToJSON(tok.content, extensions, {preserveWhitespace: true})
+      const model = htmlToJSON(tok.content, extensions, { preserveWhitespace: true })
       const content = messageContent(model)
       for (const c of content) {
         state.push(c)
