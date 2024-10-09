@@ -1,0 +1,16 @@
+{
+  "string": {
+    "ConfirmationText": "Bedankt voor je interesse in {name}. Om het aanmeldingsproces te voltooien, plak je de volgende link in de URL-balk van je browser: {link}. Met vriendelijke groet, {name} Team.",
+    "ConfirmationHTML": "Hallo, Bedankt voor je interesse in {name}. Om het aanmeldingsproces te voltooien, klik je op deze link of plak je de volgende link in de URL-balk van je browser: {link}. Met vriendelijke groet, {name} Team.",
+    "ConfirmationSubject": "Bevestig je e-mailadres om je aan te melden voor {name}",
+    "RecoveryText": "We hebben een verzoek ontvangen om het wachtwoord voor je account opnieuw in te stellen. Om je wachtwoord opnieuw in te stellen, plak je de volgende link in de URL-balk van je browser: {link}. Als je geen verzoek hebt ingediend om je wachtwoord opnieuw in te stellen, negeer dan deze e-mail.",
+    "RecoveryHTML": "We hebben een verzoek ontvangen om het wachtwoord voor je account opnieuw in te stellen. Om je wachtwoord opnieuw in te stellen, klik je op de onderstaande link: Wachtwoord opnieuw instellen. Als de bovenstaande link voor het opnieuw instellen van het wachtwoord niet werkt, plak je de volgende link in de URL-balk van je browser: {link}. Als je geen verzoek hebt ingediend om je wachtwoord opnieuw in te stellen, negeer dan deze e-mail.",
+    "RecoverySubject": "Wachtwoordherstel",
+    "InviteText": "Je bent uitgenodigd voor {ws}. Om deel te nemen, plak je de volgende link in de URL-balk van je browser: {link}. De link is {expHours} uur geldig.",
+    "InviteHTML": "Je bent uitgenodigd voor {ws}. Om deel te nemen, klik je op de onderstaande link: Deelnemen. Als de uitnodigingslink hierboven niet werkt, plak je de volgende link in de URL-balk van je browser: {link}. De link is {expHours} uur geldig.",
+    "InviteSubject": "Uitnodiging voor {ws}",
+    "OtpText": "Bevestig je e-mailadres om toegang te krijgen tot {app}!\n\nJe bevestigingscode staat hieronder - voer deze in het venster in waar je bent begonnen met inloggen voor {app}.\n\n{code}\n\nAls je deze e-mail niet hebt aangevraagd, hoef je je geen zorgen te maken — je kunt deze veilig negeren.",
+    "OtpHTML": "Bevestig je e-mailadres om toegang te krijgen tot {app}! Je bevestigingscode staat hieronder - voer deze in het venster in waar je bent begonnen met inloggen voor {app}. {code} Als je deze e-mail niet hebt aangevraagd, hoef je je geen zorgen te maken — je kunt deze veilig negeren.",
+    "OtpSubject": "{app} bevestigingscode: {code}"
+  }
+}
