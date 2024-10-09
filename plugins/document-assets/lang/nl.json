@@ -1,0 +1,63 @@
+{
+  "string": {
+    "Document": "Document",
+    "ParentDocument": "Hoofddocument",
+    "ChildDocument": "Subdocument",
+    "CreateDocument": "Document aanmaken",
+    "Documents": "Documenten",
+    "CreateAnVersion": "Nieuwe versie aanmaken",
+    "DocumentNamePlaceholder": "Naamloos",
+    "Name": "Naam",
+    "Cancel": "Annuleren",
+    "Version": "Versie",
+    "SearchDocument": "Zoek document...",
+    "Snapshot": "Momentopname",
+    "NoVersions": "Geen versies gedefinieerd",
+    "DocumentApplication": "Documenten",
+    "MyDocuments": "Mijn documenten",
+    "Teamspace": "Teamruimte",
+    "Teamspaces": "Teamruimtes",
+    "Labels": "Labels",
+    "AddLabel": "Label toevoegen",
+    "Authors": "Auteurs",
+    "Backlinks": "Terugverwijzingen",
+    "History": "Geschiedenis",
+    "DescriptionPlaceholder": "typ voor details...",
+    "CreateTeamspace": "Teamruimte aanmaken",
+    "EditTeamspace": "Teamruimte bewerken",
+    "NewTeamspace": "Nieuwe teamruimte",
+    "TeamspaceTitle": "Titel teamruimte",
+    "TeamspaceTitlePlaceholder": "Nieuwe teamruimte",
+    "TeamspaceDescriptionPlaceholder": "Beschrijving toevoegen...",
+    "ChooseIcon": "Pictogram kiezen",
+    "TeamspaceMembers": "Leden",
+    "NoParentDocument": "Geen hoofddocument",
+    "NoBacklinks": "Geen terugverwijzingen",
+    "NoHistory": "Geen eerdere geschiedenis",
+    "Untitled": "Naamloos",
+
+    "Description": "Beschrijving",
+
+    "CopyDocumentUrl": "Kopieer document-URL naar klembord",
+
+    "ViewMode": "Weergave",
+    "EditMode": "Bewerken",
+    "SuggestMode": "Voorstellen",
+
+    "CompareTo": "Vergelijken met...",
+    "Star": "Ster",
+    "Unstar": "Ster verwijderen",
+
+    "Lock": "Vergrendelen",
+    "Unlock": "Ontgrendelen",
+    "Locked": "Vergrendeld",
+
+    "ConfigLabel": "Documenten",
+    "ConfigDescription": "Uitbreiding voor collaboratieve documentbewerking",
+
+    "Icon": "Pictogram",
+    "Color": "Kleur",
+    "RoleLabel": "Rol: {role}",
+    "Embeddings": "Insluitingen"
+  }
+}
