@@ -1,0 +1,19 @@
+{
+  "status": {
+    "RequiredField": "Vereist veld {field}",
+    "FieldsDoNotMatch": "{field} komt niet overeen met {field2}",
+    "ConnectingToServer": "Verbinding maken met server...."
+  },
+  "string": {
+    "CreateWorkspace": "Werkruimte aanmaken",
+    "LastName": "Achternaam",
+    "FirstName": "Voornaam",
+    "Workspace": "Naam van de werkruimte",
+    "FillInProfile": "Vul je profiel in",
+    "SetUpPassword": "Stel je wachtwoord in",
+    "Next": "Volgende",
+    "Skip": "Overslaan",
+    "SignUpCompleted": "Aanmelding voltooid",
+    "StartUsingHuly": "Begin met het gebruik van Huly"
+  }
+}
