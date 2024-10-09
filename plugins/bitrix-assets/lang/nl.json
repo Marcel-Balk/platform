@@ -1,0 +1,18 @@
+{
+  "string": {
+    "BitrixTokenUrl": "Bitrix24 Token URL",
+    "Bitrix": "",
+    "BitrixDesc": "Bitrix 24 integratie",
+    "Settings": "Configureren",
+    "NotAllowed": "Niet toegestaan zonder administratieve rechten",
+    "BitrixEntityType": "Entiteit mapping",
+    "FieldMapping": "Veld mapping",
+    "AddField": "Mapping toevoegen",
+    "Attribute": "Attribuut",
+    "MapField": "Map...",
+    "BitrixImport": "Synchroniseren met Bitrix",
+    "AddMapping": "Entiteit mapping toevoegen",
+    "ConfigLabel": "Bitrix24",
+    "ConfigDescription": "Uitbreiding voor Bitrix 24 integratie"
+  }
+}
