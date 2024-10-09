@@ -1,0 +1,13 @@
+{
+  "string": {
+    "Cancel": "Annuleren",
+    "Retry": "Opnieuw proberen",
+    "UploadingTo": "Uploaden {files, plural, =1 {# bestand} other {# bestanden}} naar"
+  },
+  "status": {
+    "Error": "Fout",
+    "Waiting": "Wachten",
+    "Uploading": "Uploaden",
+    "Completed": "Voltooid"
+  }
+}
