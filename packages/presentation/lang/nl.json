@@ -1,0 +1,41 @@
+{
+  "string": {
+    "Create": "Aanmaken",
+    "Cancel": "Annuleren",
+    "Ok": "Ok",
+    "Save": "Opslaan",
+    "Saved": "Opgeslagen...",
+    "Download": "Downloaden",
+    "Delete": "Verwijderen",
+    "Close": "Sluiten",
+    "NotSelected": "Niet geselecteerd",
+    "Deselect": "Deselecteren",
+    "Archived": "(gearchiveerd)",
+    "AddSocialLinks": "Sociale links toevoegen",
+    "EditSocialLinks": "Sociale links bewerken",
+    "Change": "Wijzigen",
+    "Remove": "Verwijderen",
+    "Search": "Zoeken...",
+    "Spaces": "Ruimtes",
+    "NumberSpaces": "{count, plural, =0 {In} =1 {In 1 plaats} other {In # plaatsen}}",
+    "InThis": "In deze {space}",
+    "NoMatchesInThis": "Geen overeenkomsten in deze {space}",
+    "NoMatchesFound": "Geen overeenkomsten gevonden",
+    "NotInThis": "Niet in deze {space}",
+    "Match": "Overeenkomst",
+    "Add": "Toevoegen",
+    "Edit": "Bewerken",
+    "DocumentPreview": "Voorbeeld",
+    "MakePrivate": "Privé maken",
+    "MakePrivateDescription": "Alleen leden kunnen het zien",
+    "Created": "Gemaakt",
+    "NoResults": "Geen resultaten om te tonen",
+    "Next": "Volgende",
+    "FailedToPreview": "Voorbeeld mislukt",
+    "ContentType": "Inhoudstype",
+    "ContentTypeNotSupported": "Voorbeeld is niet beschikbaar voor dit inhoudstype"
+  },
+  "status": {
+    "FileTooLarge": "Bestand te groot"
+  }
+}
