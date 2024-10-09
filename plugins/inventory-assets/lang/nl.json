@@ -1,0 +1,25 @@
+{
+  "status": {
+    "CategoryRequired": "Categorie vereist",
+    "NameRequired": "Naam vereist"
+  },
+  "string": {
+    "Categories": "Categorieën",
+    "Category": "Categorie",
+    "CategoryCreateLabel": "Categorie",
+    "CreateCategory": "Categorie aanmaken",
+    "CreateSubcategory": "Subcategorie aanmaken",
+    "Inventory": "Voorraad",
+    "ProductCreateLabel": "Product",
+    "CreateProduct": "Product aanmaken",
+    "Products": "Producten",
+    "Product": "Product",
+    "Variant": "Variant",
+    "SKU": "SKU",
+    "Variants": "Varianten",
+    "NoVariantsForProduct": "Er zijn geen varianten voor dit product.",
+    "CreateVariant": "Variant aanmaken",
+    "ConfigLabel": "Voorraad",
+    "ConfigDescription": "Uitbreiding om uitbreidingen te beheren"
+  }
+}
