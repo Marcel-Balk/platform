@@ -1,0 +1,21 @@
+{
+  "string": {
+    "Cancel": "Annuleren",
+    "Templates": "Tekstsjablonen",
+    "TemplatesHeader": "TEKSTSJABLONEN",
+    "CreateTemplate": "SJABLOON AANMAKEN",
+    "SaveTemplate": "Sjabloon opslaan",
+    "EditTemplate": "Sjabloon bewerken",
+    "ViewTemplate": "Sjabloon bekijken",
+    "Suggested": "VOORGESTELD",
+    "SearchTemplate": "zoek naar sjabloon",
+    "TemplatePlaceholder": "Nieuw sjabloon",
+    "Title": "Titel",
+    "Message": "Bericht",
+    "Field": "Veld",
+    "TemplateCategory": "Sjabloongroep",
+    "CreateTemplateCategory": "Groep aanmaken",
+    "Copy": "Kopiëren",
+    "Template": "Sjabloon"
+  }
+}
