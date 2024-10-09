@@ -1,0 +1,32 @@
+{
+  "string": {
+    "Drive": "Schijf",
+    "Drives": "Schijven",
+    "Grid": "Raster",
+    "File": "Bestand",
+    "Files": "Bestanden",
+    "FileVersion": "Bestandsversie",
+    "FileVersions": "Bestandsversies",
+    "Folder": "Map",
+    "Folders": "Mappen",
+    "Resource": "Bron",
+    "Name": "Naam",
+    "Description": "Beschrijving",
+    "Parent": "Bovenliggend",
+    "Path": "Pad",
+    "Version": "Versie",
+    "Size": "Grootte",
+    "ContentType": "Inhoudstype",
+    "LastModified": "Laatst gewijzigd",
+    "Download": "Downloaden",
+    "Upload": "Uploaden",
+    "CreateDrive": "Schijf aanmaken",
+    "CreateFolder": "Map aanmaken",
+    "UploadFile": "Bestanden uploaden",
+    "EditDrive": "Schijf bewerken",
+    "Rename": "Hernoemen",
+    "Restore": "Herstellen",
+    "RoleLabel": "Rol",
+    "Root": "/"
+  }
+}
