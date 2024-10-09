@@ -1,0 +1,14 @@
+{
+  "string": {
+    "ViewMode": "Weergavemodus",
+    "Unified": "Gecombineerd",
+    "Split": "Gesplitst",
+    "Viewed": "Bekeken",
+    "ShowDiff": "Toon verschil",
+    "NoChanges": "Bestandsverschil heeft geen wijzigingen",
+    "LargeDiffsAreHidden": "Grote verschillen worden standaard niet weergegeven.",
+    "FileIsTooLarge": "Bestand is te groot om weer te geven.",
+    "FileWasRenamed": "Bestand is hernoemd zonder wijzigingen.",
+    "FileWasDeleted": "Bestand is verwijderd."
+  }
+}
