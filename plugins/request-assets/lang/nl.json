@@ -1,0 +1,23 @@
+{
+  "string": {
+    "Requests": "Verzoeken",
+    "Request": "Verzoek",
+    "Approve": "Goedkeuren",
+    "Approved": "Goedgekeurd",
+    "CreatedRequest": "Een verzoek aangemaakt",
+    "For": "Voor",
+    "Change": "Wijzigen",
+    "Add": "Toevoegen",
+    "Remove": "Verwijderen",
+    "Status": "Status",
+    "Requested": "Aangevraagd",
+    "Completed": "Voltooid",
+    "Reject": "Afwijzen",
+    "Rejected": "Afgewezen",
+    "Comment": "Opmerking",
+    "PleaseTypeMessage": "Typ een opmerking om door te gaan...",
+    "NoRequests": "Geen verzoeken",
+    "Cancel": "Annuleren",
+    "Cancelled": "Geannuleerd"
+  }
+}
